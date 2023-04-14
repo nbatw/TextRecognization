@@ -39,7 +39,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>名片辨識</string>
+                    <string>TextRecognization</string>
                 </dict>
             </dict>
         </array>
